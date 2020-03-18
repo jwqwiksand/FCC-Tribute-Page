@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+#main {
+    background: lightgray;
+}
+#title {
+    text-align: center;
+}
+#img-div {
+   
+}
+#image {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+
+}
+
+#tribute-link {
+
+}
