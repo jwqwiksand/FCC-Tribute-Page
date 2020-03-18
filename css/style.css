@@ -8,9 +8,7 @@ body {
 #title {
     text-align: center;
 }
-#img-div {
-   
-}
+
 #image {
     max-width: 100%;
     display: block;
@@ -19,12 +17,4 @@ body {
 
 #img-caption {
     text-align: center;
-}
-
-#tribute-info {
-
-}
-
-#tribute-link {
-
 }
